@@ -33,3 +33,5 @@ Final Step: Write in chat r*role @ping of role or /ping @same ping
 You can use [Nexcord](https://nexcord.com) or [Bot-hosting.net](https://bot-hosting.net)!
 
 Credits to rozovoeutro and me =)
+
+If you like you can Star this rep :3
